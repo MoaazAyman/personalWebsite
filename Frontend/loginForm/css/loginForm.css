@@ -9,7 +9,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('a.jpg');
+    background: url("img/a.jpg");
     background-size: cover;
     min-height: 100vh;
     background-position: center;

@@ -3,7 +3,7 @@ let registerLink = document.querySelector('.register-link');
 let loginLink = document.querySelector('.login-link');
 let logiBtn = document.querySelector('.btnLogin-popup');
 let closeIcon = document.querySelector('.icon-close');
-let slideShow = document.querySelector('.slide-show');
+//let slideShow = document.querySelector('.slide-show');
 
 
 
